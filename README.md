@@ -1,4 +1,4 @@
-This repository contains the code used for evaluation of the algorithm in:
+This repository contains the code used for evaluation of the methods decribed in:
 
 K. Scheubert, F. Hufsky, and S. Böcker    
 **Multiple mass spectrometry fragmentation trees revisited: boosting performance and quality**    
